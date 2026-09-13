@@ -17,26 +17,36 @@ https://alfasoft.tecnodaniel.ec/
 Sistema de facturación electrónica para Ecuador.
 https://demo.ui.contalium.com/admin/profile
 
+### 🛒 Ecommerce
+Tienda online de productos informáticos
+https://tecnodaniel.ec/
+
 ### 👶 Bebe Track
 Aplicación gratuita para seguimiento del bebé.
 https://bebetrack.tecnodaniel.ec/
 
-### 👶 Ecommerce
-Tienda online de productos informáticos
-https://tecnodaniel.ec/
 
 ## 🛠️ Tecnologías
 
-- .NET / C#
 - NestJS / Node.js
+- .NET / C#
 - Next.js / React
 - Angular
 - PostgreSQL
 - Docker
 - GitHub Actions
 - AWS / GCP
+- Kubernetes
+- Terraform
+- Ansible
+- Prometheus
+- Grafana
+- Linux
+- Postman
+- GitHub Actions
 
 ## 📫 Contacto
++593 968857043
 
 [LinkedIn](...)
 [Portfolio](...)
