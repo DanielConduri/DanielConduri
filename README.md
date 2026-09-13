@@ -14,7 +14,7 @@ https://alfasoft.tecnodaniel.ec/
 ## 🚀 Proyectos destacados
 
 ### 🧾 ERP
-Sistema de facturación electrónica para Ecuador.
+Sistema de facturación electrónica para Ecuador y Colombia.
 https://ui.contalium.com/admin/profile
 
 ### 🛒 Ecommerce
