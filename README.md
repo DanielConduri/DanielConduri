@@ -1,6 +1,6 @@
 # Hola, soy Daniel 👋
 
-### Full Stack Developer | .NET | NestJS | Next.js | Angular
+### Full Stack Developer | NestJS | .NET | Next.js | Angular
 
 Desarrollo aplicaciones web, sistemas de facturación electrónica
 y soluciones empresariales.
@@ -31,3 +31,10 @@ Fábrica de software y soluciones empresariales.
 
 [LinkedIn](...)
 [Portfolio](...)
+
+
+🚀 Software Engineering
+🧾 Electronic Invoicing
+☁️ Cloud & DevOps
+🤖 AI-assisted Development
+<img width="2056" height="765" alt="banner-profile" src="https://github.com/user-attachments/assets/d292a6ef-b753-4fd6-8d2f-ab8abc200afd" />
