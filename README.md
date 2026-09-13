@@ -7,17 +7,23 @@ y soluciones empresariales.
 
 <img width="2056" height="765" alt="banner-alfasoft" src="https://github.com/user-attachments/assets/bd899a91-c27b-4c70-8bea-f12a43615cbd" />
 
+### 🏢 AlfaSoftec
+Fábrica de software y soluciones empresariales.
+https://alfasoft.tecnodaniel.ec/
 
 ## 🚀 Proyectos destacados
 
-### 🧾 API SRI
+### 🧾 ERP
 Sistema de facturación electrónica para Ecuador.
+https://demo.ui.contalium.com/admin/profile
 
 ### 👶 Bebe Track
 Aplicación gratuita para seguimiento del bebé.
+https://bebetrack.tecnodaniel.ec/
 
-### 🏢 AlfaSoftec
-Fábrica de software y soluciones empresariales.
+### 👶 Ecommerce
+Tienda online de productos informáticos
+https://tecnodaniel.ec/
 
 ## 🛠️ Tecnologías
 
