@@ -5,6 +5,9 @@
 Desarrollo aplicaciones web, sistemas de facturación electrónica
 y soluciones empresariales.
 
+<img width="2056" height="765" alt="banner-alfasoft" src="https://github.com/user-attachments/assets/bd899a91-c27b-4c70-8bea-f12a43615cbd" />
+
+
 ## 🚀 Proyectos destacados
 
 ### 🧾 API SRI
@@ -37,4 +40,4 @@ Fábrica de software y soluciones empresariales.
 🧾 Electronic Invoicing
 ☁️ Cloud & DevOps
 🤖 AI-assisted Development
-<img width="2056" height="765" alt="banner-profile" src="https://github.com/user-attachments/assets/d292a6ef-b753-4fd6-8d2f-ab8abc200afd" />
+
