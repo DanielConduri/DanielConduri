@@ -15,7 +15,7 @@ https://alfasoft.tecnodaniel.ec/
 
 ### 🧾 ERP
 Sistema de facturación electrónica para Ecuador.
-https://demo.ui.contalium.com/admin/profile
+https://ui.contalium.com/admin/profile
 
 ### 🛒 Ecommerce
 Tienda online de productos informáticos
